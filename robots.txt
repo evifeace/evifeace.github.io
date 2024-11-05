@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evifeace.github.io/AQJ/sitemap_index.txt
+Sitemap: https://evifeace.github.io/LHb/sitemap_index.txt
+Sitemap: https://evifeace.github.io/sMe/sitemap_index.txt
+Sitemap: https://evifeace.github.io/xcD/sitemap_index.txt
